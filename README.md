@@ -1,4 +1,17 @@
-### Hi there 👋
+# Dionatan Souza
+
+Desenvolvedor Web em Fintel Gestão Pública
+
+[![Linkedin](https://www.linkedin.com/in/dionatan-souza/)
+
+
+Estudante e entusiasta na área da tecnologia.
+
+A mais de 5 anos trabalhando para melhorar e facilitar a vida das pessoas.
+
+Trabalhou recentemente juntamente com pesquisadores maravilhosos em um grupo de estudo denominado "Rede Análise Covid 19". #FiqueEmCasa
+
+
 
 <!--
 **dionatamsouza/dionatamsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+See badges on https://shields.io/
 -->
