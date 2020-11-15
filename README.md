@@ -2,7 +2,7 @@
 
 Desenvolvedor Web em Fintel Gestão Pública
 
-[![Linkedin](https://www.linkedin.com/in/dionatan-souza/)
+[![Linkedin](https://www.linkedin.com/in/dionatan-souza/)]
 
 
 Estudante e entusiasta na área da tecnologia.
