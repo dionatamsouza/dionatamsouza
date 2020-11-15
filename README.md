@@ -7,7 +7,7 @@ Estudante e entusiasta na área da tecnologia.
 
 A mais de 5 anos trabalhando para melhorar e facilitar a vida das pessoas.
 
-Trabalhou recentemente juntamente com pesquisadores maravilhosos em um grupo de estudo denominado "Rede Análise Covid 19". #FiqueEmCasa
+Trabalhou recentemente juntamente com pesquisadores maravilhosos em um grupo de estudo denominado "Rede Análise Covid-19". #FiqueEmCasa
 
 
 
