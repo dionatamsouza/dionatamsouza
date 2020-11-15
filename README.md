@@ -2,8 +2,6 @@
 
 Desenvolvedor Web em Fintel Gestão Pública
 
-[![LinkedIn](https://www.linkedin.com/in/dionatan-souza/)]
-
 
 Estudante e entusiasta na área da tecnologia.
 
@@ -15,6 +13,8 @@ Trabalhou recentemente juntamente com pesquisadores maravilhosos em um grupo de 
 
 <!--
 **dionatamsouza/dionatamsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![LinkedIn](https://www.linkedin.com/in/dionatan-souza/)]
 
 Here are some ideas to get you started:
 
