@@ -10,7 +10,9 @@ A mais de 5 anos trabalhando para melhorar e facilitar a vida das pessoas.
 Trabalhou recentemente juntamente com pesquisadores maravilhosos em um grupo de estudo denominado "Rede Análise Covid-19". #FiqueEmCasa
 
 
-[![Website Badge](https://img.shields.io/static/v1?label=Minha&message=página&color=blue&link=https://www.dionatan.com.br)]
+[![Twitter Badge](https://img.shields.io/badge/-@dionhc-1?style=for-the-badge&labelColor=6633cc&logo=google&logoColor=white&link=https://www.dionatan.com.br)](https://www.dionatan.com.br)
+
+
 
 <!--
 **dionatamsouza/dionatamsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
